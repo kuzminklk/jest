@@ -1,6 +1,6 @@
 
-### Purpose 
-Detached repository for Jest Documentation study materials
+### Description 
+Detached repository for [Jest documentation](https://jestjs.io/) study materials
 
-### Associations
-More information, study path, summary in [detached Notion Page](https://www.notion.so/kuzminklk/Jest-31a54d4de035800e908ef2030f8d548c?source=copy_link)
+### Purpose
+Part of computer-science study curriculum availabe in [Notion](https://app.notion.com/p/kuzminklk/31154d4de03580d7b5ceca5b187846be) (private for now)
