@@ -1,5 +1,3 @@
-
-
-export const foo = 'foo';
-export const bar = () => 'bar';
-export default () => 'baz';
+export const foo = "foo"
+export const bar = () => "bar"
+export default () => "baz"
